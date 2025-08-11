@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # fullstack-laravel-vue-tailwind-vite-2025-08-11
 Projeto boilerplate base para Laravel + Inertia + Vue 3 + Tailwind CSS + Vite  
 Criado em: 11 de Agosto de 2025
